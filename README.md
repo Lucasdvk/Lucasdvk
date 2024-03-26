@@ -29,7 +29,7 @@ Best, Lucas raposo.</p>&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
- ## Contact-me :
+ ## LinkeDin :
 
  https://www.linkedin.com/in/lucas-raposo-29982a299/
 
