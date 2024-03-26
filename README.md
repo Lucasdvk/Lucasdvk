@@ -2,9 +2,6 @@ Hello, fellow data enthusiasts! 👋 I'm Lucas, a passionate data analyst dedica
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### About Me
-As a data analyst with a keen interest in exploring the realms of data, I strive to make sense of the vast sea of information using Python and its powerful libraries. My journey involves continuous learning, exploration, and experimentation with different datasets to uncover hidden patterns and trends.
-
 ### What kind of repositorys do you have here ?
 🐍 Python Projects: Dive into data analysis projects powered by Python, where I use libraries like Pandas, NumPy, and Matplotlib to explore and visualize datasets.
 
@@ -29,7 +26,7 @@ Best, Lucas raposo.</p>&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
- ## LinkeDin :
+ ## Linkedin :
 
  https://www.linkedin.com/in/lucas-raposo-29982a299/
 
