@@ -16,7 +16,7 @@ Thank you for visiting!🤓
 Best, Lucas raposo.</p>&nbsp;
 
 
-## Skills:
+## Primary skills:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
