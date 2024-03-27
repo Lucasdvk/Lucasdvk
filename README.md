@@ -9,6 +9,8 @@ Hello, fellow data enthusiasts! 👋 I'm Lucas, a passionate data analyst dedica
 
 💼📈 Business Intelligence (B.I) Projects: Delve into interactive dashboards and visualizations created with this really amazing tool for data-driven decision-making.
 
+🤖 Machine Learning Repository: Discover my collection of projects encompassing unsupervised and supervised models, deep learning, and various other skills within the realm of data science.
+
 Feel free to explore my repositories and reach out with any questions or suggestions. Your feedback is valuable to me!
 
 Thank you for visiting!🤓
