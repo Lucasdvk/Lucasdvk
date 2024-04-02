@@ -1,5 +1,4 @@
-##### Hello, fellow data enthusiasts! 👋
-I'm Lucas, a passionate data scientist dedicated to unraveling insights from complex datasets. This repository is my playground where I share my daily data analysis projects, dive into various datasets, and experiment with Python,B.I and SQL to extract meaningful insights.
+I'm Lucas 👋, a passionate data scientist dedicated to unraveling insights from complex datasets. This repository is my playground where I share my daily data analysis projects, dive into various datasets, and experiment with Python,B.I and SQL to extract meaningful insights.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
