@@ -7,7 +7,7 @@ I'm Lucas 👋, a passionate data analyst dedicated to unraveling insights from 
 
 📊 SQL Projects: Explore my projects where I query databases to extract insights and generate reports using SQL.
 
-💼📈 Business Intelligence (B.I) Projects: Delve into interactive dashboards and visualizations created with this really amazing tool for data-driven decision-making.
+💼📈 Power (B.I) Projects: Delve into interactive dashboards and visualizations created with this really amazing tool for data-driven decision-making.
 
 🤖 Machine Learning: Discover my collection of projects encompassing unsupervised and supervised models, deep learning, and various other skills within the realm of data science.
 
