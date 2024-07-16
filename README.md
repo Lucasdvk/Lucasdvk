@@ -1,21 +1,22 @@
-I'm Lucas 👋, a passionate data analyst dedicated to unraveling insights from complex datasets. This repository is my playground where I share my daily data analysis projects, dive into various datasets, and experiment with Python,B.I and SQL to extract meaningful insights.
+Eu sou o Lucas 👋, um desenvolvedor apaixonado por de dados e inteligência artificial! Este repositório é meu playground, onde compartilho meus projetos diários de análise de dados,desenvolvimento web e aplicações do dia-dia.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Que tipo de repositórios você encontra aqui?
+🐍 Projetos em Python: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
 
-### What kind of repositorys do you have here ?
-🐍 Python Projects: Dive into data analysis projects powered by Python, where I use libraries like Pandas, NumPy, and Matplotlib to explore and visualize datasets.
+📊 Projetos em SQL: Explore meus projetos onde consulto bancos de dados para extrair insights e gerar relatórios usando SQL.
 
-📊 SQL Projects: Explore my projects where I query databases to extract insights and generate reports using SQL.
+💼📈 Projetos em Power BI: Mergulhe em dashboards interativos e visualizações criadas com esta incrível ferramenta para a tomada de decisões baseadas em dados.
 
-💼📈 Power (B.I) Projects: Delve into interactive dashboards and visualizations created with this really amazing tool for data-driven decision-making.
+🤖 Machine Learning: Descubra minha coleção de projetos que abrangem modelos supervisionados e não supervisionados, deep learning e várias outras habilidades no campo da ciência de dados.
 
-🤖 Machine Learning: Discover my collection of projects encompassing unsupervised and supervised models, deep learning, and various other skills within the realm of data science.
+🐘 Projetos em PHP: Confira meus projetos em PHP, onde desenvolvo aplicações web dinâmicas e interativas.
 
-Feel free to explore my repositories and reach out with any questions or suggestions. Your feedback is valuable to me!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
-Thank you for visiting!🤓
+Obrigado pela visita!🤓
 
-Best, Lucas raposo.</p>&nbsp;
+Atenciosamente, Lucas Raposo.
 
 
 ## Some tools that I work with:
