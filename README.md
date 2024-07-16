@@ -2,7 +2,7 @@ Me chamo Lucas, um desenvolvedor apaixonado por dados e inteligência artificial
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Que tipos de projetos você encontra aqui?
+### Meus projetos:
 
 🐍 *Projetos em Python*: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
 
@@ -21,8 +21,7 @@ Obrigado pela visita!🤓
 Atenciosamente, Lucas Raposo.
 
 
-## Some tools that I work with:
-
+## Tools: 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Power B.I](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
