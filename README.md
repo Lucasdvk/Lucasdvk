@@ -1,17 +1,18 @@
 Me chamo Lucas, um desenvolvedor apaixonado por dados e inteligência artificial! Este repositório é meu playground, onde compartilho meus projetos diários de análise de dados,desenvolvimento web e aplicações do dia-dia.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-##Que tipo de repositórios você encontra aqui?
+
+## Que tipos de projetos você encontra aqui?
 
 🐍 *Projetos em Python*: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
 
-📊 Projetos em SQL: Explore meus projetos onde consulto bancos de dados para extrair insights e gerar relatórios usando SQL.
+📊 *Projetos em SQL*: Explore meus projetos onde consulto bancos de dados para extrair insights e gerar relatórios usando SQL.
 
-💼📈 Projetos em Power BI: Mergulhe em dashboards interativos e visualizações criadas com esta incrível ferramenta para a tomada de decisões baseadas em dados.
+💼📈 *Projetos em Power BI*: Mergulhe em dashboards interativos e visualizações criadas com esta incrível ferramenta para a tomada de decisões baseadas em dados.
 
-🤖 Machine Learning: Descubra minha coleção de projetos que abrangem modelos supervisionados e não supervisionados, deep learning e várias outras habilidades no campo da ciência de dados.
+🤖 *Machine Learning*: Descubra minha coleção de projetos que abrangem modelos supervisionados e não supervisionados, deep learning e várias outras habilidades no campo da ciência de dados.
 
-🐘 Projetos em PHP: Confira meus projetos em PHP, onde desenvolvo aplicações web dinâmicas e interativas.
+🐘 *Projetos em PHP*: Confira meus projetos em PHP, onde desenvolvo aplicações web dinâmicas e interativas.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
