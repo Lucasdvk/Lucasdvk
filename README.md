@@ -1,8 +1,9 @@
 Me chamo Lucas, um desenvolvedor apaixonado por dados e inteligência artificial! Este repositório é meu playground, onde compartilho meus projetos diários de análise de dados,desenvolvimento web e aplicações do dia-dia.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-Que tipo de repositórios você encontra aqui?
-🐍 Projetos em Python: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
+##Que tipo de repositórios você encontra aqui?
+
+🐍 *Projetos em Python*: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
 
 📊 Projetos em SQL: Explore meus projetos onde consulto bancos de dados para extrair insights e gerar relatórios usando SQL.
 
