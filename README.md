@@ -1,4 +1,4 @@
-Me chamo Lucas, um desenvolvedor apaixonado por dados e inteligência artificial! Este repositório é meu playground, onde compartilho meus projetos diários de análise de dados,desenvolvimento web e aplicações do dia-dia.
+Me chamo Lucas, um profissional de tecnologia apaixonado por dados e inteligência artificial! Este repositório é meu playground, onde compartilho meus projetos diários de análise de dados,desenvolvimento web e aplicações do dia-dia.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
