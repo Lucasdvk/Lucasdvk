@@ -2,11 +2,6 @@ Este repositório é meu playground, onde compartilho meus projetos diários de 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### What is this about !?:
-
-🐘 *PHP*: Experiência no desenvolvimento de aplicações web robustas e escaláveis utilizando PHP, aplicando boas práticas de programação orientada a objetos e padrões de design. Especializado em Symfony para desenvolvimento seguro e robusto, Zend Framework para sistemas modulares e PhpUnit para garantia da qualidade do código através de testes unitários. Aplicações de PSR's (PHP Standards Recommendations) para promover interoperabilidade entre frameworks e bibliotecas.
-
-📊 *Análise de Dados*: Utilização de PostgreSQL para integração e manipulação avançada de dados em aplicações web. Experiência em Power BI para criação de dashboards interativos, análise de dados visual e tomada de decisões estratégicas.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
