@@ -1,7 +1,3 @@
-
-
- ## Linkedin :
-
  https://www.linkedin.com/in/lucas-raposo-29982a299/
 
  
