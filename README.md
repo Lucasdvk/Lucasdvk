@@ -9,7 +9,7 @@ Obrigado pela visita! 🤓
 
 Atenciosamente, Lucas Raposo.
 
-## Tools: 
+### Tools: 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -22,7 +22,7 @@ Atenciosamente, Lucas Raposo.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
- ## Linkedin :
+ ### Linkedin :
 
  https://www.linkedin.com/in/lucas-raposo-29982a299/
 
