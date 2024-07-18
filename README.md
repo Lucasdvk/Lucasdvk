@@ -12,8 +12,6 @@ Me chamo Lucas, um profissional de tecnologia apaixonado por dados e inteligênc
 
 🤖 *Machine Learning*: Descubra minha coleção de projetos que abrangem modelos supervisionados e não supervisionados, deep learning e várias outras habilidades no campo da ciência de dados.
 
-🐘 *Projetos em PHP*: Confira meus projetos em PHP, onde desenvolvo aplicações web dinâmicas e interativas.
-
 Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
 Obrigado pela visita!🤓
