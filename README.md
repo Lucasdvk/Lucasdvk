@@ -4,7 +4,7 @@ Este repositório é meu playground, onde compartilho meus projetos diários de 
 
 ### What is this about !?:
 
-🐘 *PHP e Frameworks*: Experiência no desenvolvimento de aplicações web robustas e escaláveis utilizando PHP, aplicando boas práticas de programação orientada a objetos e padrões de design. Especializado em Symfony para desenvolvimento seguro e robusto, Zend Framework para sistemas modulares e PhpUnit para garantia da qualidade do código através de testes unitários. Aplicações de PSR's (PHP Standards Recommendations) para promover interoperabilidade entre frameworks e bibliotecas.
+🐘 *PHP*: Experiência no desenvolvimento de aplicações web robustas e escaláveis utilizando PHP, aplicando boas práticas de programação orientada a objetos e padrões de design. Especializado em Symfony para desenvolvimento seguro e robusto, Zend Framework para sistemas modulares e PhpUnit para garantia da qualidade do código através de testes unitários. Aplicações de PSR's (PHP Standards Recommendations) para promover interoperabilidade entre frameworks e bibliotecas.
 
 📊 *Análise de Dados*: Utilização de PostgreSQL para integração e manipulação avançada de dados em aplicações web. Experiência em Power BI para criação de dashboards interativos, análise de dados visual e tomada de decisões estratégicas.
 
