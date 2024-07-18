@@ -4,20 +4,23 @@ Este repositório é meu playground, onde compartilho meus projetos diários de 
 
 ### Meus projetos:
 
-🐍 *Projetos em Python*: Mergulhe em projetos de análise de dados utilizando Python, onde uso bibliotecas como Pandas, NumPy e Matplotlib para explorar e visualizar conjuntos de dados.
+🚀 Symfony: Experiência em desenvolvimento de aplicações web utilizando Symfony, incluindo implementação de componentes reutilizáveis e práticas de segurança.
 
-📊 *Projetos em SQL*: Explore meus projetos onde consulto bancos de dados para extrair insights e gerar relatórios usando SQL.
+🔧 Zend Framework: Desenvolvimento de sistemas modulares e robustos utilizando Zend Framework.
 
-💼📈 *Projetos em Power BI*: Mergulhe em dashboards interativos e visualizações criadas com esta incrível ferramenta para a tomada de decisões baseadas em dados.
+🧪 PhpUnit: Criação e execução de testes unitários para garantir a qualidade e estabilidade do código, integrando PhpUnit em pipelines de CI/CD.
 
-🤖 *Machine Learning*: Descubra minha coleção de projetos que abrangem modelos supervisionados e não supervisionados, deep learning e várias outras habilidades no campo da ciência de dados.
+📜 PSR's (PHP Standards Recommendations): Adoção de padrões PHP para promover a interoperabilidade entre frameworks e bibliotecas, melhorando a consistência e compatibilidade do código.
+
+🐘 PostgreSQL: Prática na utilização e integração com banco de dados utilizando PostgreSQL para aplicações web.
+
+🐳 Docker: Containers Docker para facilitar a criação, distribuição e execução de aplicações de forma isolada e eficiente.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
-Obrigado pela visita!🤓
+Obrigado pela visita! 🤓
 
 Atenciosamente, Lucas Raposo.
-
 
 ## Tools: 
 
