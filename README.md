@@ -2,19 +2,11 @@ Este repositório é meu playground, onde compartilho meus projetos diários de 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Meus projetos:
+### What is this about !?:
 
-🚀 Symfony: Experiência em desenvolvimento de aplicações web utilizando Symfony, incluindo implementação de componentes reutilizáveis e práticas de segurança.
+🐘 *PHP e Frameworks*: Experiência no desenvolvimento de aplicações web robustas e escaláveis utilizando PHP, aplicando boas práticas de programação orientada a objetos e padrões de design. Especializado em Symfony para desenvolvimento seguro e robusto, Zend Framework para sistemas modulares e PhpUnit para garantia da qualidade do código através de testes unitários. Aplicações de PSR's (PHP Standards Recommendations) para promover interoperabilidade entre frameworks e bibliotecas.
 
-🔧 Zend Framework: Desenvolvimento de sistemas modulares e robustos utilizando Zend Framework.
-
-🧪 PhpUnit: Criação e execução de testes unitários para garantir a qualidade e estabilidade do código, integrando PhpUnit em pipelines de CI/CD.
-
-📜 PSR's (PHP Standards Recommendations): Adoção de padrões PHP para promover a interoperabilidade entre frameworks e bibliotecas, melhorando a consistência e compatibilidade do código.
-
-🐘 PostgreSQL: Prática na utilização e integração com banco de dados utilizando PostgreSQL para aplicações web.
-
-🐳 Docker: Containers Docker para facilitar a criação, distribuição e execução de aplicações de forma isolada e eficiente.
+📊 *Análise de Dados*: Utilização de PostgreSQL para integração e manipulação avançada de dados em aplicações web. Experiência em Power BI para criação de dashboards interativos, análise de dados visual e tomada de decisões estratégicas.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato com quaisquer perguntas ou sugestões. Seu feedback é valioso para mim!
 
